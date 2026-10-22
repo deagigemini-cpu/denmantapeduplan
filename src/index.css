@@ -1,0 +1,17 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background-color: #f8fafc;
+  color: #0f172a;
+  text-align: left;
+}
+
+input,
+textarea,
+select {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}
